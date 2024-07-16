@@ -310,6 +310,7 @@ static const IdMapping charliecard_fare_gate_ids[] = {
     {.id = 6408, .name = "Charles/MGH"},
     {.id = 1837, .name = "Charles/MGH"},
     {.id = 7087, .name = "Charles/MGH"},
+    {.id = 6940, .name = "Charles/MGH"),
     // Oak Grove
     {.id = 6640, .name = "Oak Grove"},
     {.id = 6641, .name = "Oak Grove"},
@@ -401,7 +402,6 @@ static const IdMapping charliecard_fare_gate_ids[] = {
     {.id = 6955, .name = "Assembly"},
     {.id = 6954, .name = "Assembly"},
     {.id = 6953, .name = "Assembly"},
-    {.id = 6940, .name = "Assembly"},
     {.id = 7101, .name = "Assembly"},
     {.id = 3873, .name = "Assembly"},
     {.id = 3872, .name = "Assembly"},
