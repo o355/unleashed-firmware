@@ -306,6 +306,10 @@ static const IdMapping charliecard_fare_gate_ids[] = {
     {.id = 2168, .name = "Porter"},
     {.id = 7021, .name = "Porter"},
     {.id = 6782, .name = "Porter"},
+    // Charles/MGH
+    {.id = 6408, .name = "Charles/MGH"},
+    {.id = 1837, .name = "Charles/MGH"},
+    {.id = 7087, .name = "Charles/MGH"},
     // Oak Grove
     {.id = 6640, .name = "Oak Grove"},
     {.id = 6641, .name = "Oak Grove"},
@@ -397,6 +401,7 @@ static const IdMapping charliecard_fare_gate_ids[] = {
     {.id = 6955, .name = "Assembly"},
     {.id = 6954, .name = "Assembly"},
     {.id = 6953, .name = "Assembly"},
+    {.id = 6940, .name = "Assembly"},
     {.id = 7101, .name = "Assembly"},
     {.id = 3873, .name = "Assembly"},
     {.id = 3872, .name = "Assembly"},
@@ -515,6 +520,7 @@ static const IdMapping charliecard_fare_gate_ids[] = {
     {.id = 6826, .name = "South Station"},
     {.id = 6825, .name = "South Station"},
     {.id = 6824, .name = "South Station"},
+    {.id = 6526, .name = "South Station"},
     // Courthouse
     {.id = 6929, .name = "Courthouse"},
     {.id = 2357, .name = "Courthouse"},
